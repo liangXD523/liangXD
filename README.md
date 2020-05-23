@@ -1,4 +1,14 @@
 # I will build this into my personal website throughout this summer!
+# For now, this only serves as my daily notes.
+
+- I'm wondering who designed the recommendation system of Spotify. The most satisfying one that I've ever met with!
+- Python 迷思...
+
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
